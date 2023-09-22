@@ -1,6 +1,8 @@
 Compilation/flashing instructions
 ===============================================
 
+### Open terminal window in QMK MSYS
+
 ### Compile firmware
 qmk compile -kb ferris/sweep -km bv_colemak_dh_ger
 
